@@ -1,6 +1,8 @@
 /*designer by hunlongyu 2015/12/9*/
 
-
+h3{
+	text-shadow: 4px 2px 2px #AAAAAA;
+}
 hr{
 	border-top: 1px solid #aaa;
 }
@@ -16,7 +18,7 @@ li{
 	width: 120px;
 	height: auto;
 }
-#jumbotron h3{
+#jumbotron h2{
 	text-align: center;
 }
 #jumbotron p{
