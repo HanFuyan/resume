@@ -1,0 +1,51 @@
+/*designer by hunlongyu 2015/12/9*/
+
+
+hr{
+	border-top: 1px solid #aaa;
+}
+li{
+	list-style: none;
+}
+/*巨幕*/
+#jumbotron{
+	background-color: #333;
+	color: #EEEEEE;
+}
+#logo{
+	width: 120px;
+	height: auto;
+}
+#jumbotron h3{
+	text-align: center;
+}
+#jumbotron p{
+	text-align: center;
+}
+/*skills*/
+.progress{
+	background-color: #ccc;
+}
+.progress-bar{
+	background-color: #666666;
+}
+/*works*/
+#works small{
+	text-align: right;
+}
+/*resume*/
+#resume img{
+	float: left;
+	max-width: 60px;
+	margin-right: 20px;
+}
+#foot{
+	background-color: #333;
+	color: #EEEEEE;
+	text-align: center;
+	margin-bottom: 0px;
+	padding: 0;
+}
+
+
+
