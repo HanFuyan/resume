@@ -16,7 +16,7 @@ li {
 /*巨幕*/
 
 #jumbotron {
-	background-color: #159957;
+	background-color: #666666;
 	background-image: linear-gradient(120deg, #155799, #159957);
 	color: #EEEEEE;
 }
