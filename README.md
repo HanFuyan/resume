@@ -4,4 +4,5 @@
 
 希望能遇到好东家。
 
-![首页](http://127.0.0.1:8020/Resume/img/homepage.jpg)
+
+![首页](https://github.com/Hunlongyu/resume/blob/gh-pages/img/homepage.jpg);
